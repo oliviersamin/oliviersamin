@@ -24,9 +24,7 @@ I'm Olivier SAMIN, Python & Django application developper.
 * You can find my updated CV [here](https://github.com/oliviersamin/CV)
 
 ## Languages and tools
-* python
-* ![Django & Django rest-framework](readme/django.png)
-* Flask
+* python      ![Django & Django rest-framework](readme/django.png)  ![Flask](readme/flask.png)
 * Javascript
 * CSS
 * HTML
