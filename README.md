@@ -24,8 +24,4 @@ I'm Olivier SAMIN, Python & Django application developper.
 * You can find my updated CV [here](https://github.com/oliviersamin/CV)
 
 ## Languages and tools
-![python](readme/python.png)      ![Django & Django rest-framework](readme/django.png)  ![Flask](readme/flask.png)  
-![front-end](readme/HTML-CSS-JS.png)  
-![CircleCI](readme/CircleCI.jpg)   ![Heroku](readme/Heroku.png)   ![nginx](readme/nginx.jpg)  
-![linux](readme/linux.jpg)  ![Raspberry](readme/RASPBERRY.jpg)  
-![GitHub](readme/GitHub.jpg)
+![languages-tools](readme/GitHub.png)
