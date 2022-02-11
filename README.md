@@ -25,7 +25,7 @@ I'm Olivier SAMIN, Python & Django application developper.
 
 ## Languages and tools
 * python
-* Django & Django rest-framework
+* ![Django & Django rest-framework](readme/django.png)
 * Flask
 * Javascript
 * CSS
