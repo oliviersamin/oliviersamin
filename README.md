@@ -25,4 +25,4 @@ I'm Olivier SAMIN, Python & Django application developper.
 * You can find my updated CV [here](https://github.com/oliviersamin/CV)
 
 ## Languages and tools
-![languages-tools](readme/github-sans-fond.png)
+![languages-tools](readme/github-fond-noir.png)
