@@ -19,7 +19,8 @@ I'm Olivier SAMIN, Python & Django application developper.
 
 ## About me!
 * I'm French, 41 years old, living in Fuerteventura (Canary islands) with my wife and 3 year old daughter.
-* I've just graduated from Openclassrooms online formation. I am officially a Python application developper (Web, APIs but not only...)
+* I've just graduated from Openclassrooms online formation. I am a Python application developper (Web, APIs but not only...)
+* I've created 13 projects to validate my training in less than a yer. My projects are public repos and can be seen.
 * I'm currently looking for REMOTE job opportunities (as I'm very well in Fuerteventura)
 * You can find my updated CV [here](https://github.com/oliviersamin/CV)
 
